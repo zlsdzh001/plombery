@@ -7,9 +7,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
-## Added
+## [0.5.2] - 2025-11-30
 
-- Add libsql database support (#525)
+### Added
+
+- Add libsql database support ([#525](https://github.com/lucafaggianelli/plombery/issues/525))
+
+### Fixed
+
+- Fix Select field in pipeline run dialog ([#537](https://github.com/lucafaggianelli/plombery/issues/537))
 
 ## [0.5.1] - 2025-10-28
 
